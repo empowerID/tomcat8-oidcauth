@@ -88,8 +88,8 @@ Here is an example of the valve configuration with multiple OpenID Providers and
            {
                issuer: https://<YOUREMPOWERIDSERVER>,
                configurationDocumentUrl: https://<YOUREMPOWERIDSERVER>/oauth/.well-known/openid-configuration,
-               clientId: 8c3e74b6-7dfb-451f-ac2f-219deb353a70,
-               clientSecret: 17aebdf6-1177-4a5d-bff3-e33b7a8c0223,
+               clientId: <YOURCLIENTID>,
+               clientSecret: <YOURCLIENTSECRET>,
                tokenEndpointAuthMethod: client_secret_post,
                usernameClaim: attrib.email
            }
