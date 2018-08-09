@@ -1,4 +1,4 @@
-# OpenID Connect Authenticator for Tomcat
+# EmpowerID OpenID Connect Authenticator for Tomcat
 
 This is an authenticator implementation for [Apache Tomcat 8.5](http://tomcat.apache.org/) that allows web-applications to use [OpenID Connect](http://openid.net/connect/) to log users in.
 
